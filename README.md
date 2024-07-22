@@ -1,1 +1,2 @@
-# Project
+# Project: Credit card fraud detection
+Developed and implemented an a Credit Card Fraud Detection system utilizing machine learning algorithms and statistical modeling. Leveraged Python and its libraries for data analysis, feature engineering, and model deployment. The implemented model harnesses the power of logistic regression to effectively categorize data into distinct classes of transactions, enabling a nuanced understanding of patterns and anomalies within the dataset and accurate identification of potential fraudulent activities.
